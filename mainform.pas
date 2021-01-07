@@ -28,6 +28,7 @@ implementation
 procedure TForm2.Button1Click(Sender: TObject);
 begin
   ShowMessage('Hello World');
+  //This is a comment
 end;
 
 procedure TForm2.Button2Click(Sender: TObject);
